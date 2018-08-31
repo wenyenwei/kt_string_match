@@ -1,1 +1,1 @@
-{"accuracy_edit_distance": 0.5616276318902295}
+{"precision_edit_distance_default": 0.26521545979564637}{"recall_edit_distance_default": 0.8474095102909865}
